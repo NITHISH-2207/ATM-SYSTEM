@@ -18,7 +18,7 @@ function App() {
         <div>
           <h1>Kongu Engineering College</h1>
           <p>
-            NITHISH S <code>B.TECH</code> INFORMATION <code>TECHNOLOGY</code>
+            NITHISH S <code>B.TECH INFORMATION TECHNOLOGY</code>
           </p>
         </div>
         <button
